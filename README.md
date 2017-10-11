@@ -1,7 +1,7 @@
 # For-Web-Developer
 
 ### Tool
-[vscode](https://code.visualstudio.com/download)
+- [vscode](https://code.visualstudio.com/download)
 
 ### Javascript
-[Cheatsheet for the JavaScript ](https://github.com/mbeaudru/modern-js-cheatsheet)
+- [Cheatsheet for the JavaScript ](https://github.com/mbeaudru/modern-js-cheatsheet)
