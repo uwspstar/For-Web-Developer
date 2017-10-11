@@ -1,3 +1,7 @@
 # For-Web-Developer
-Highly recommend to read
+
+### Tool
+[vscode](https://code.visualstudio.com/download)
+
+### Javascript
 [Cheatsheet for the JavaScript ](https://github.com/mbeaudru/modern-js-cheatsheet)
