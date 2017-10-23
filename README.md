@@ -5,7 +5,9 @@
 
 ### Angular
 
-- [Top 7 Ways to Debug Angular 4 Apps](https://www.youtube.com/watch?v=gxixM90vo9Y)
+- [Top 7 Ways to Debug Angular 4 Apps](https://www.youtube.com/watch?v=gxixM90vo9Y) . [read more detail](https://angularfirebase.com/lessons/methods-for-debugging-an-angular-application/) by Jeff Delaney
+
+- [Angular 2/4 User Registration and Login Example & Tutorial](http://jasonwatmore.com/post/2016/09/29/angular-2-user-registration-and-login-example-tutorial) [ see code ](https://github.com/cornflourblue/angular2-jwt-authentication-example)by Jason Watmore
 
 ### Javascript
 - [Cheatsheet for the JavaScript ](https://github.com/mbeaudru/modern-js-cheatsheet)
