@@ -3,6 +3,10 @@
 ### Tool
 - [vscode](https://code.visualstudio.com)
 
+### Angular
+
+- [Top 7 Ways to Debug Angular 4 Apps](https://www.youtube.com/watch?v=gxixM90vo9Y)
+
 ### Javascript
 - [Cheatsheet for the JavaScript ](https://github.com/mbeaudru/modern-js-cheatsheet)
 
