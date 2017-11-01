@@ -3,8 +3,8 @@
 ### Tool
 - [vscode](https://code.visualstudio.com)
 
-###  typescriptlang
-- [typescript](https://www.typescriptlang.org/play/index.html)
+###  typescript
+- [typescript playground](https://www.typescriptlang.org/play/index.html)
 
 ### Angular
 
