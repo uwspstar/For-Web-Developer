@@ -3,6 +3,9 @@
 ### Tool
 - [vscode](https://code.visualstudio.com)
 
+###  typescriptlang
+- [typescript](https://www.typescriptlang.org/play/index.html)
+
 ### Angular
 
 - [Top 7 Ways to Debug Angular 4 Apps](https://www.youtube.com/watch?v=gxixM90vo9Y) by Jeff Delaney . [read more detail](https://angularfirebase.com/lessons/methods-for-debugging-an-angular-application/) 
