@@ -28,7 +28,50 @@
 - string
 - boolean
 - array
+```
+•	It is an ordered collection of values.
+•	These are enclosed in square brackets which means that array begins with .[. and
+•	ends with .]..
+•	The values are separated by , (comma).
+•	Array indexing can be started at 0 or 1.
+•	Arrays should be used when the key names are sequential integers.
+
+
+{
+	"book": [
+		{
+		"id":"01",
+		"language": "Java",
+		"edition": "third",
+		"author": "Herbert Schildt"
+		},
+		{
+		"id":"07",
+		"language": "C++",
+		"edition": "second"
+		"author": "E.Balagurusamy"
+		}
+	]
+}
+
+```
+
 - object
+```
+•	It is an unordered set of name/value pairs.
+•	Objects are enclosed in curly braces that is, it starts with '{' and ends with '}'.
+•	Each name is followed by ':'(colon) and the key/value pairs are separated by ,
+(comma).
+•	The keys must be strings and should be different from each other.
+•	Objects should be used when the key names are arbitrary strings.
+
+{
+  "id":"01",
+  "language": "Java",
+  "edition": "third",
+  "author": "Herbert Schildt"
+},
+```
 - null
 
 ### Website, blog
