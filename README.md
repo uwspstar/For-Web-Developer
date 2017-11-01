@@ -22,6 +22,15 @@
 ### Javascript
 - [Cheatsheet for the JavaScript ](https://github.com/mbeaudru/modern-js-cheatsheet)
 
+### JSON
+`JSON Value`
+- number (integer or floating point)
+- string
+- boolean
+- array
+- object
+- null
+
 ### Website, blog
 - [jeremybytes](http://www.jeremybytes.com/)
 
