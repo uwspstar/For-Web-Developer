@@ -1,0 +1,10 @@
+table, tr, td{
+    border: 1px solid grey;
+    padding: 10px;
+    text-align: center;
+}
+thead, th, td:first-child{
+    padding: 10px;
+    background-color:gray;
+    color: #fff;
+}
