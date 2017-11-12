@@ -1,5 +1,7 @@
 # Cookies vs. Local Stoarage vs. Session Storage
 
+- recommed to watch [cookies vs localStorage vs sessionStorage](https://www.youtube.com/watch?v=AwicscsvGLg) by freeCodeCamp
+
 - see the index.html page
 
 |                    | Cookies                 | Local Storage    | Session Storage |
