@@ -61,6 +61,15 @@
         localStorage.setItem('breakfast', 'egg');
         console.log(localStorage.getItem('breakfast'));
 
+        //localStorage.removeItem('breakfast');
+        //localStorage.clear();
+
+        sessionStorage.setItem('lunch', 'meat');
+        console.log(sessionStorage.getItem('breakfast'));
+
+        document.cookie = "key1=value1; expires=2101/01/01;";
+        console.log(document.cookie);
+
     </script>
 
 </body>
