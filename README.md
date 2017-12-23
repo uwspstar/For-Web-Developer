@@ -2,6 +2,7 @@
 
 ### Tool
 - [vscode](https://code.visualstudio.com)
+- [mage and Text Placeholders](http://lorempixel.com/)
 
 ###  typescript
 - [typescript playground](https://www.typescriptlang.org/play/index.html)
