@@ -1,5 +1,12 @@
 # For-Web-Developer
 
+### Interview
+- [HTML attribute vs DOM property](http://csharp-video-tutorials.blogspot.com/2017/06/html-attribute-vs-dom-property.html)
+ 
+
+
+
+
 ### Tool
 - [vscode](https://code.visualstudio.com)
 - [mage and Text Placeholders](http://lorempixel.com/)
