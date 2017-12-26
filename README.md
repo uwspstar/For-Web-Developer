@@ -27,6 +27,13 @@
 - [Angular and RxJS: Create an API Service to Talk to a REST Backend](https://www.sitepoint.com/angular-rxjs-create-api-service-rest-backend/) By Jurgen Van de Moere
 - [An Introduction to Component Routing with Angular Router](https://www.sitepoint.com/component-routing-angular-router/) By Jurgen Van de Moere
 
+### Optimization Techniques
+- Minification
+- Uglification //long variable to short
+- Bundling // mutiple files to bundle, reduce request , server more client
+- Dead code elimination // remove no used code
+- Ahead-of-time (AOT) compilation
+
 ### Javascript
 - [Cheatsheet for the JavaScript ](https://github.com/mbeaudru/modern-js-cheatsheet)
 
