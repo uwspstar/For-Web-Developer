@@ -23,6 +23,10 @@ css html js document [https://devdocs.io/]
 - Live Server
 - Monokai++
 
+### Vue Tutorial
+
+[Vue.js - Basic HTTP Authentication Tutorial & Example](http://jasonwatmore.com/post/2018/09/21/vuejs-basic-http-authentication-tutorial-example) by Jason Watmore
+
 ### Angular
 
 - [Top 7 Ways to Debug Angular 4 Apps](https://www.youtube.com/watch?v=gxixM90vo9Y) by Jeff Delaney . [read more detail](https://angularfirebase.com/lessons/methods-for-debugging-an-angular-application/) 
