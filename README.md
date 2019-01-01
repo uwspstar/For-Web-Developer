@@ -13,9 +13,15 @@ css html js document [https://devdocs.io/]
 ### Tool
 - [vscode](https://code.visualstudio.com)
 - [mage and Text Placeholders](http://lorempixel.com/)
+- [workflow simple drawing] (https://www.draw.io)
 
 ###  typescript
 - [typescript playground](https://www.typescriptlang.org/play/index.html)
+
+###  Vue (vscode plugin)
+- Vetur
+- Live Server
+- Monokai
 
 ### Angular
 
