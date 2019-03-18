@@ -102,4 +102,12 @@ css html js document [https://devdocs.io/]
 ### Reading
 - Good checklist when you design a website by Jon Moore [50 Things You Probably Forgot To Design](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914)
 
+### Worth Learning
+- Express, one of the most simple yet powerful ways to create a web server. Its minimalist approach, unopinionated, focused on the core features of a server, is key to its success.
+- Meteor, an incredibly powerful full-stack framework, powering you with an isomorphic approach to building apps with JavaScript, sharing code on the client and the server. Once an off-the-shelf tool that provided everything, now integrates with frontend libs
+React, Vue and Angular. Can be used to create mobile apps as well.
+- koa, built by the same team behind Express, aims to be even simpler and smaller,building on top of years of knowledge. The new project born out of the need to create incompatible changes without disrupting the existing community.
+- Next.js, a framework to render server-side rendered React applications.
+- Micro, a very lightweight server to create asynchronous HTTP microservices.
+- Socket.io, a real-time communication engine to build network applications.
 
