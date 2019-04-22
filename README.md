@@ -10,6 +10,8 @@ css html js document [https://devdocs.io/]
 
 - [Angular Security - Authentication With JSON Web Tokens (JWT): The Complete Guide](https://blog.angular-university.io/angular-jwt-authentication/)
 
+- [Top 50 C# Interview Questions and Answers](https://www.guru99.com/c-sharp-interview-questions.html)
+
 ### Tool
 - [vscode](https://code.visualstudio.com)
 - [image and Text Placeholders](http://lorempixel.com/)
