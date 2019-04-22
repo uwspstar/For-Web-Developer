@@ -3,12 +3,12 @@
 ### Reference
 css html js document [https://devdocs.io/]
 
-### Interview
+### Interview 
 - [HTML attribute vs DOM property](http://csharp-video-tutorials.blogspot.com/2017/06/html-attribute-vs-dom-property.html)
  
+- [JWT: The Complete Guide to JSON Web Tokens](https://blog.angular-university.io/angular-jwt/)
 
-
-
+- [https://blog.angular-university.io/angular-jwt-authentication/](https://blog.angular-university.io/angular-jwt-authentication/)
 
 ### Tool
 - [vscode](https://code.visualstudio.com)
