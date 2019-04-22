@@ -8,7 +8,7 @@ css html js document [https://devdocs.io/]
  
 - [JWT: The Complete Guide to JSON Web Tokens](https://blog.angular-university.io/angular-jwt/)
 
-- [https://blog.angular-university.io/angular-jwt-authentication/](https://blog.angular-university.io/angular-jwt-authentication/)
+- [Angular Security - Authentication With JSON Web Tokens (JWT): The Complete Guide](https://blog.angular-university.io/angular-jwt-authentication/)
 
 ### Tool
 - [vscode](https://code.visualstudio.com)
